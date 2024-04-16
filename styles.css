@@ -1,6 +1,5 @@
-
 body {
-  font-family: sans-serif;
+  font-family: Arial Narrow Bold, sans-serif;
   margin: 0;
   padding: 0;
   background-color: #ffffff; /* Black background */
@@ -8,6 +7,7 @@ body {
 }
 
 header {
+  font-family: Impact, Haettenschweiler, Arial Narrow Bold, sans-serif;
   background-color: #ffffff; /* Black background */
   color: #000000; /* White text color */
   padding: 80px 20px; /* move the header down */
